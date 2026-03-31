@@ -1,7 +1,7 @@
-# EMSIGHT-Unified-Student-Ecosystem
+# EMSIGHT : a Unified Student Ecosystem
 
 ## 1. Project Presentation
-**EMSIGHT (EMSI - Insight)** is a unified platform designed for the community of the Ecole Marocaine des Sciences de l'Ingenieur (EMSI). The objective is to centralize existing digital services into a single, fluid, and intelligent ecosystem while introducing new collaborative and technological features.
+**EMSIGHT (EMSI - Insight)** is a unified platform designed for the community of the [Ecole Marocaine des Sciences de l'Ingenieur (EMSI)](https://emsi.ma). The objective is to centralize existing digital services into a single, fluid, and intelligent ecosystem while introducing new collaborative and technological features.
 
 ---
 
@@ -45,3 +45,15 @@
 2. **Core Development:** Creation of the main interface and integration of base modules.
 3. **IA Implementation:** Development and training of the CV analysis module.
 4. **Tests and Deployment:** Beta-testing phase with student groups.
+
+---
+
+## 📄 License
+
+This project is open-source and open for contribution.
+
+---
+
+<div align="center">
+  <p>Built with ❤️ by Nizar EL IDRYSY | 3IIRG3.</p>
+</div>
