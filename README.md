@@ -55,5 +55,5 @@ This project is open-source and open for contribution.
 ---
 
 <div align="center">
-  <p>Built with ❤️ by Nizar EL IDRYSY.</p>
+  <p>Built with ❤️ by Nizar EL IDRYSY, Nizar BTIRA, Hajar CHABLI, Amjad AHRRAR & Owais BAKKALI.</p>
 </div>
