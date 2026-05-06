@@ -10,10 +10,11 @@ A modern, integrated student ecosystem built with React, Vite, and Django.
 
 ### 1. Setup the Backend
 Navigate to the `backend` directory and start the Django server:
-```bash
+```powershell
 cd backend
-python -m venv venv #or python3 -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+python -m venv venv
+venv\Scripts\activate
+python -m pip install --upgrade pip
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
@@ -22,13 +23,12 @@ The backend should now be running at `http://127.0.0.1:8000`.
 
 ### 2. Setup the Frontend
 Open a new terminal window, navigate to the `frontend` directory, install dependencies, and start the Vite development server:
-```bash
+```powershell
 cd frontend
 npm install
 npm run dev
 ```
-The frontend will be available at `
-`.
+The frontend will be available at `http://localhost:5173`.
 
 ## Features
 - Role-based access (Student, Teacher, Admin).
@@ -46,5 +46,5 @@ The frontend will be available at `
 - Django REST Framework
 
 <div align="center">
-  <p>Built with ❤️ by Nizar EL IDRYSY - Hajar CHABLI - Nizar BTIRA - Owais BAKKALI - Amjad AHRRAR - 3IIRG3.</p>
+  <p>Built with ❤️ by Amjad AHRRAR - Hajar CHABLI - Nizar BTIRA - Nizar EL IDRYSY - Owais BAKKALI - 3IIRG3.</p>
 </div>
